@@ -28,7 +28,9 @@ The project is implemented using Lua scripting within CoppeliaSim. Key component
 4. Run the simulation to observe the robot in action.
 
 ## Demo
-![Alt Text](robot1)
+<div style="display: flex; gap: 100px;">
+    <img src="robot1t1.PNG" alt="Robot 1" width="125" height="225">
+</div>
 
 ## Future Improvements
 - Implement reinforcement learning algorithms to enhance decision-making.
