@@ -38,7 +38,7 @@ The project is implemented using Lua scripting within CoppeliaSim. Key component
 - Enhance the simulation environment with more realistic debris and IED placements.
 
 ## Contributors
-- [Your Name or Username] - Project Lead and Developer
+- Okunta Braide - Project Lead and Developer
 
 ## License
 This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
