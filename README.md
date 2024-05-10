@@ -29,7 +29,7 @@ The project is implemented using Lua scripting within CoppeliaSim. Key component
 
 ## Demo
 <div style="display: flex; gap: 100px;">
-    <img src="robot1t1.PNG" alt="Robot 1" width="125" height="225">
+    <img src="robot1t1.gif" alt="Robot 1" width="125" height="225">
 </div>
 
 ## Future Improvements
